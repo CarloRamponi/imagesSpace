@@ -1,5 +1,5 @@
 # imagesSpace
-A bash script that reduces the quality of multiple images untile they take less than a given space.
+A bash script that reduces the quality of multiple images until they take less than a given space.
 
 ## installation
 
